@@ -151,8 +151,23 @@ It enables users to monitor KPIs, identify trends, and make better business deci
 ---
 
 ## 📷 Dashboard Preview
-![Hotel_Revenue Dashboard](https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/blob/main/Vrinda_Dashboard.png)
+**Home**
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Home.png)
 
+**Overview**
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Overview.png)
+
+**Bookings**
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Bookings.png)
+
+**Performance**
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Performance.png)
+
+**Property Details**
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Property%20Details.png)
+
+**Tooltips**
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/ToolTips.png)
 
 ---
 ## 🎥 Video
