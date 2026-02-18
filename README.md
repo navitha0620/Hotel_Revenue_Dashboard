@@ -167,11 +167,12 @@ It enables users to monitor KPIs, identify trends, and make better business deci
 ![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/Property%20Details.png)
 
 **Tooltips**
+
 ![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/ToolTips.png)
 
 ---
 ## 🎥 Video
 
 Watch the project demo video
-[![Watch the video](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Thumbnail_Hotel.png)]()
+[![Watch the video](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/Thumbnail_Hotel.png)]()
 
