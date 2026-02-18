@@ -173,5 +173,5 @@ It enables users to monitor KPIs, identify trends, and make better business deci
 ## 🎥 Video
 
 Watch the project demo video
-[![Watch the video](https://raw.githubusercontent.com/navitha0620/Vrinda_Dashboard-Data-Analytics/main/Thumbnail_virinda_sales.png)](https://raw.githubusercontent.com/navitha0620/Vrinda_Dashboard-Data-Analytics/main/Vrinda%20annual%20report%202k22_Dashboard_SS_Recording.mp4)
+[![Watch the video](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/Thumbnail_Hotel.png)]()
 
