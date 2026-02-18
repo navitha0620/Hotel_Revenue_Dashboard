@@ -152,26 +152,26 @@ It enables users to monitor KPIs, identify trends, and make better business deci
 
 ## 📷 Dashboard Preview
 **Home**
-![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Home.png)
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/Home.png)
 
 **Overview**
-![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Overview.png)
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/Overview.png)
 
 **Bookings**
-![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Bookings.png)
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/Bookings.png)
 
 **Performance**
-![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Performance.png)
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/Performance.png)
 
 **Property Details**
-![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Property%20Details.png)
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/Property%20Details.png)
 
 **Tooltips**
-![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/ToolTips.png)
+![Hotel_Revenue Dashboard](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/ToolTips.png)
 
 ---
 ## 🎥 Video
 
 Watch the project demo video
-[![Watch the video](https://github.com/navitha0620/Hotel_Revenue_Dashboard/blob/main/Thumbnail_Hotel.png)]()
+[![Watch the video](https://github.com/navitha0620/Hotel_Revenue_Dashboard/main/Thumbnail_Hotel.png)]()
 
